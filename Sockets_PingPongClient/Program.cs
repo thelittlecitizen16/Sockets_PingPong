@@ -46,7 +46,6 @@ namespace Sockets_PingPongClient
                                   Encoding.ASCII.GetString(messageReceived,
                                                              0, byteRecv));
                         }
-
                     }
                 }
                 catch (ArgumentNullException ane)

@@ -8,18 +8,8 @@ namespace Sockets_PingPongServer
     {
         static void Main(string[] args)
         {
-            //System.Diagnostics.Process process = new System.Diagnostics.Process();
-            //System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
-            //startInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
-            //startInfo.WorkingDirectory = @"C:\Code";
-            //startInfo.FileName = "cmd.exe";
-            //startInfo.Arguments = "/C mkdir afek";
-            //process.StartInfo = startInfo;
-            //var isSuccess = process.Start();
-
-           IPHostEntry ipHost = Dns.GetHostEntry(Dns.GetHostName());
+            IPHostEntry ipHost = Dns.GetHostEntry(Dns.GetHostName());
             IPAddress ipAddr = ipHost.AddressList[0];
-            //  int port =int.Parse(args[0]);
             IPEndPoint localEndPoint = new IPEndPoint(ipAddr, 9999);
 
             Socket listener = new Socket(ipAddr.AddressFamily,
