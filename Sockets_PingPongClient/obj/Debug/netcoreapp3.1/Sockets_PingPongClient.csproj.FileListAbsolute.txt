@@ -1,0 +1,13 @@
+C:\Users\thelittlecitizen16\source\repos\Sockets_PingPong\Sockets_PingPongClient\bin\Debug\netcoreapp3.1\Sockets_PingPongClient.exe
+C:\Users\thelittlecitizen16\source\repos\Sockets_PingPong\Sockets_PingPongClient\bin\Debug\netcoreapp3.1\Sockets_PingPongClient.deps.json
+C:\Users\thelittlecitizen16\source\repos\Sockets_PingPong\Sockets_PingPongClient\bin\Debug\netcoreapp3.1\Sockets_PingPongClient.runtimeconfig.json
+C:\Users\thelittlecitizen16\source\repos\Sockets_PingPong\Sockets_PingPongClient\bin\Debug\netcoreapp3.1\Sockets_PingPongClient.runtimeconfig.dev.json
+C:\Users\thelittlecitizen16\source\repos\Sockets_PingPong\Sockets_PingPongClient\bin\Debug\netcoreapp3.1\Sockets_PingPongClient.dll
+C:\Users\thelittlecitizen16\source\repos\Sockets_PingPong\Sockets_PingPongClient\bin\Debug\netcoreapp3.1\Sockets_PingPongClient.pdb
+C:\Users\thelittlecitizen16\source\repos\Sockets_PingPong\Sockets_PingPongClient\obj\Debug\netcoreapp3.1\Sockets_PingPongClient.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen16\source\repos\Sockets_PingPong\Sockets_PingPongClient\obj\Debug\netcoreapp3.1\Sockets_PingPongClient.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\source\repos\Sockets_PingPong\Sockets_PingPongClient\obj\Debug\netcoreapp3.1\Sockets_PingPongClient.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\source\repos\Sockets_PingPong\Sockets_PingPongClient\obj\Debug\netcoreapp3.1\Sockets_PingPongClient.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\source\repos\Sockets_PingPong\Sockets_PingPongClient\obj\Debug\netcoreapp3.1\Sockets_PingPongClient.dll
+C:\Users\thelittlecitizen16\source\repos\Sockets_PingPong\Sockets_PingPongClient\obj\Debug\netcoreapp3.1\Sockets_PingPongClient.pdb
+C:\Users\thelittlecitizen16\source\repos\Sockets_PingPong\Sockets_PingPongClient\obj\Debug\netcoreapp3.1\Sockets_PingPongClient.genruntimeconfig.cache

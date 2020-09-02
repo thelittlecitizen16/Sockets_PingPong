@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sockets_PingPongServer", "Sockets_PingPongServer\Sockets_PingPongServer.csproj", "{C39E19CE-D3A8-4DA5-8B51-1B3BF4DAE44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sockets_PingPongClient", "Sockets_PingPongClient\Sockets_PingPongClient.csproj", "{A01840A3-DF18-4187-9A88-2D00A4F03D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C39E19CE-D3A8-4DA5-8B51-1B3BF4DAE44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39E19CE-D3A8-4DA5-8B51-1B3BF4DAE44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39E19CE-D3A8-4DA5-8B51-1B3BF4DAE44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39E19CE-D3A8-4DA5-8B51-1B3BF4DAE44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A01840A3-DF18-4187-9A88-2D00A4F03D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01840A3-DF18-4187-9A88-2D00A4F03D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01840A3-DF18-4187-9A88-2D00A4F03D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01840A3-DF18-4187-9A88-2D00A4F03D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9390BBA9-5F48-4234-B233-2C16FE448A44}
+	EndGlobalSection
+EndGlobal
